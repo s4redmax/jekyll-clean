@@ -22,3 +22,13 @@ date: 2014-09-28T15:39:55-04:00
 3.ใช้นิ้วชี้แขนขวายึดนิ้วหัวแม่มือแขนซ้ายเข้าหาหลังมืออย่างเบาๆ จากนั้นวางแขนขวาลงที่ตัก และงอนิ้วหัวแม่มือแขนซ้ายลง โดยใช้นิ้วที่เหลือของแขนซ้ายกดหัวแม่มือไว้ บริหารสลับซ้ายขวาสองข้าง
 และยักมีรูปแบบการบริหารอีกมากมาย เป็นเพียงแค่ส่วนหนึง 
 *ไม่เริ่มต้นดูแลวันนี้ ลำบาคในวันหน้า*
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://s4redmax.github.io/jekyll-clean/" data-width="500" data-numposts="5" data-colorscheme="light"></div>
